@@ -24,3 +24,8 @@ A simple and elegant web application that lets users search and read Wikipedia a
 
 ---
 
+## 🌐 Project live link
+```
+https://velapoojitha.github.io/Wikipedia/
+```
+
